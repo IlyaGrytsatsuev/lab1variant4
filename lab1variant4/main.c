@@ -17,11 +17,11 @@ int main()
         
             }
     if (i==a){
-        printf ("true\n");
+        printf ("RESULT: true\n");
         
     }
     else{
-        printf ("false");
+        printf ("RESULT: false\n");
     }
     return(0);
     
