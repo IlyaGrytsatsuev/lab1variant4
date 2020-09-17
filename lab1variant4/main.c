@@ -17,7 +17,7 @@ int main()
         
             }
     if (i==a){
-        printf ("true");
+        printf ("true\n");
         
     }
     else{
